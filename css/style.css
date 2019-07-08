@@ -50,7 +50,9 @@
 }
 .carousel-caption p{
     font-size: 18px;
-    font-family:  "Lato";
+    font-family: "Lato script=all rev=2", "Adobe Blank";
+    font-weight: 400;
+    font-style: normal;
 }
 .carousel-item {
     height: 100vh;
